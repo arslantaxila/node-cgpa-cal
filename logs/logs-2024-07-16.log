@@ -1,0 +1,14 @@
+{"level":"info","message":"Login successful: Employee ID - 1 - Tue Jul 16 2024 15:46:07 GMT+0500 (Pakistan Standard Time)"}
+{"code":"ER_EMPTY_QUERY","errno":1065,"level":"error","message":"Error fetching dashboard_count: Query was empty","sqlMessage":"Query was empty","sqlState":"42000","stack":"Error: Query was empty\n    at PromisePool.query (C:\\wamp64\\www\\node\\ERO\\node_modules\\mysql2\\promise.js:356:22)\n    at C:\\wamp64\\www\\node\\ERO\\routes\\orders.js:41:49\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"code":"ER_EMPTY_QUERY","errno":1065,"level":"error","message":"Error fetching dashboard_count: Query was empty","sqlMessage":"Query was empty","sqlState":"42000","stack":"Error: Query was empty\n    at PromisePool.query (C:\\wamp64\\www\\node\\ERO\\node_modules\\mysql2\\promise.js:356:22)\n    at C:\\wamp64\\www\\node\\ERO\\routes\\orders.js:41:49\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"code":"ER_EMPTY_QUERY","errno":1065,"level":"error","message":"Error fetching dashboard_count: Query was empty","sqlMessage":"Query was empty","sqlState":"42000","stack":"Error: Query was empty\n    at PromisePool.query (C:\\wamp64\\www\\node\\ERO\\node_modules\\mysql2\\promise.js:356:22)\n    at C:\\wamp64\\www\\node\\ERO\\routes\\orders.js:41:49\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"code":"ER_EMPTY_QUERY","errno":1065,"level":"error","message":"Error fetching dashboard_count_detail: Query was empty","sqlMessage":"Query was empty","sqlState":"42000","stack":"Error: Query was empty\n    at PromisePool.query (C:\\wamp64\\www\\node\\ERO\\node_modules\\mysql2\\promise.js:356:22)\n    at C:\\wamp64\\www\\node\\ERO\\routes\\orders.js:41:49\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Error fetching dashboard_count_detail: query is not defined","stack":"ReferenceError: query is not defined\n    at C:\\wamp64\\www\\node\\ERO\\routes\\orders.js:39:55\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Order added successfully"}
+{"level":"info","message":"Order variable deleted successfully"}
+{"level":"info","message":"Order updatad successfully"}
+{"level":"info","message":"Order updatad successfully"}
+{"level":"info","message":"Order variable deleted successfully"}
+{"level":"info","message":"Order updatad successfully"}
+{"level":"info","message":"Order variable deleted successfully"}
+{"level":"info","message":"Order updatad successfully"}

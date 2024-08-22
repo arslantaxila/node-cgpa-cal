@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\wamp64\\www\\node\\cgpa-cal\\logs\\.239f567b51f7bff868fcb5854abd934e3d86a96b-audit.json",
+    "files": [
+        {
+            "date": 1723710890805,
+            "name": "C:\\wamp64\\www\\node\\cgpa-cal\\logs\\logs-2024-08-15.log",
+            "hash": "a53d0be2316d1c16741b4b1ee2bcca142e8a9617bbc90b1b14266458307c5b2f"
+        },
+        {
+            "date": 1723805419908,
+            "name": "C:\\wamp64\\www\\node\\cgpa-cal\\logs\\logs-2024-08-16.log",
+            "hash": "6d29caeaa9323a2ca2343c6f31da754667b1ab93a8d786966d47d7a0ac853ef7"
+        },
+        {
+            "date": 1723834908318,
+            "name": "C:\\wamp64\\www\\node\\cgpa-cal\\logs\\logs-2024-08-17.log",
+            "hash": "7e411fe9aa31479c144ebb079b006be30f278b757a516f3d4b754b2d023ac0c3"
+        },
+        {
+            "date": 1723921206800,
+            "name": "C:\\wamp64\\www\\node\\cgpa-cal\\logs\\logs-2024-08-18.log",
+            "hash": "746dcb6ee2655c663565e0b860eeac398b91620e3bd215b7f00c387e916ca52f"
+        },
+        {
+            "date": 1724307742281,
+            "name": "C:\\wamp64\\www\\node\\cgpa-cal\\logs\\logs-2024-08-22.log",
+            "hash": "f2195bc6124270deb349df65b2c7be9f2ed824e41be8fddac14fd4b4f46b62d7"
+        }
+    ],
+    "hashType": "sha256"
+}

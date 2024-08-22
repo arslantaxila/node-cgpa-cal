@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\wamp64\\www\\node\\ERO\\logs\\.41442aa2aff4e45120cdc338f875b83421e29b96-audit.json",
+    "files": [
+        {
+            "date": 1720360111824,
+            "name": "C:\\wamp64\\www\\node\\ERO\\logs\\logs-2024-07-07.log",
+            "hash": "838d7df87ee92a6da8c0021e5eae227a4ffe58128c83a439279c3ff4a0f92650"
+        },
+        {
+            "date": 1720380636239,
+            "name": "C:\\wamp64\\www\\node\\ERO\\logs\\logs-2024-07-08.log",
+            "hash": "81b667b31dbd268cfd9fb738833979cf6b6ae43852e47324039569cdae8164aa"
+        },
+        {
+            "date": 1720503505029,
+            "name": "C:\\wamp64\\www\\node\\ERO\\logs\\logs-2024-07-09.log",
+            "hash": "fcc08ab1db42f7c4448b6b7530af699261fd857bfaf4d0d619238608fec51263"
+        },
+        {
+            "date": 1721126694463,
+            "name": "C:\\wamp64\\www\\node\\ERO\\logs\\logs-2024-07-16.log",
+            "hash": "7a934aa6953c0c4c49cb44f14f756ea108b45522e44f3e68a4b90ca96c18b23e"
+        }
+    ],
+    "hashType": "sha256"
+}
