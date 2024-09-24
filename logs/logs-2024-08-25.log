@@ -1,0 +1,11 @@
+{"level":"info","message":"Login successful: Employee ID - 1 - Sun Aug 25 2024 19:09:27 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"User profile updated successfully without password"}
+{"level":"info","message":"Login failed: Incorrect Email or Password- 01-241222-008 - Sun Aug 25 2024 19:12:05 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Login successful: Employee ID - 3 - Sun Aug 25 2024 19:12:11 GMT+0500 (Pakistan Standard Time)"}
+{"level":"error","message":"Validation csv file error is: \"[0].semester\" must be one of [Semester 1, Semester 2, Semester 3, Semester 4, Semester 5, Semester 6, Semester 7, Semester 8, Semester 9, Semester 10, Semester 11, Semester 12, Semester 13, Semester 14, Semester 15]"}
+{"level":"error","message":"Validation csv file error is: \"[0].semester\" must be one of [Semester 1, Semester 2, Semester 3, Semester 4, Semester 5, Semester 6, Semester 7, Semester 8, Semester 9, Semester 10, Semester 11, Semester 12, Semester 13, Semester 14, Semester 15]"}
+{"level":"error","message":"Validation csv file error is: \"[0].semester\" must be one of [Semester 1, Semester 2, Semester 3, Semester 4, Semester 5, Semester 6, Semester 7, Semester 8, Semester 9, Semester 10, Semester 11, Semester 12, Semester 13, Semester 14, Semester 15]"}
+{"level":"info","message":"Semester added successfully"}
+{"level":"info","message":"Semester updatad successfully"}
+{"level":"info","message":"Semester updatad successfully"}
+{"level":"info","message":"Login successful: Employee ID - 3 - Sun Aug 25 2024 20:07:52 GMT+0500 (Pakistan Standard Time)"}

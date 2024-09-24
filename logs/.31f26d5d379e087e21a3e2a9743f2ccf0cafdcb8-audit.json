@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\rakhan\\Desktop\\Desktop\\Docs\\Bahria University\\Thesis\\Human Project\\node-cgpa-cal\\logs\\.31f26d5d379e087e21a3e2a9743f2ccf0cafdcb8-audit.json",
+    "files": [
+        {
+            "date": 1724594649480,
+            "name": "C:\\Users\\rakhan\\Desktop\\Desktop\\Docs\\Bahria University\\Thesis\\Human Project\\node-cgpa-cal\\logs\\logs-2024-08-25.log",
+            "hash": "381bc51bd070f13daa806df908a2310884ec4c6c92db27c15b2b35bab909ff33"
+        },
+        {
+            "date": 1724756060127,
+            "name": "C:\\Users\\rakhan\\Desktop\\Desktop\\Docs\\Bahria University\\Thesis\\Human Project\\node-cgpa-cal\\logs\\logs-2024-08-27.log",
+            "hash": "c886d38e8c5f355a2ce00f5bf0398881e1dd954f6782401c8fc1a927b57c13a8"
+        }
+    ],
+    "hashType": "sha256"
+}
